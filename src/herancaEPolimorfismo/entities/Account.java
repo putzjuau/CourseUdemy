@@ -1,4 +1,4 @@
-package herancaEPolimorfismo;
+package herancaEPolimorfismo.entities;
 
 public class Account {
     private Integer number;
